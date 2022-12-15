@@ -16,8 +16,9 @@
 }
 nav{
 	font-family: sans-serif;
-    font-size: 16px;
+    font-size: 15px;
 	font-weight:bold;
+	cursor:pointer;
 }
 .headerone{
 	height: 75px;
@@ -96,6 +97,9 @@ nav{
     height: 44px;
     background-color: #282A35;
     color: white;
+}
+.fa-adjust, .fa-globe, .fa-search{
+	font-size:20px;
 }
 	
 	
